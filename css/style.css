@@ -49,3 +49,15 @@ body {
     left: 25%;
     padding: 40px;
 }
+
+.fourth {
+    width: 700px;
+    height: 150px;
+    background: orange;
+    border: solid 10px orchid;
+    position: absolute;
+    top: 0;
+    right: 0;
+    text-align: justify;
+    font-size: 19px;
+}
