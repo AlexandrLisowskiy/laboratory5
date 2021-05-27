@@ -1,0 +1,23 @@
+.first {
+    height: 700px;
+    width: 400px;
+    background: url("../images/1.jpg");
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.first div {
+    height: 100%;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    padding: 15px;
+    border: solid 5px white;
+    box-sizing: border-box;
+}
+
+/* .second {
+    height: 500px;
+    width: 300px;
+    background: url("../images/2.jpg"); 
+} */
